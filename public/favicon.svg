@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="회사생활.zip">
+  <rect width="64" height="64" rx="16" fill="#FFF0C2"/>
+  <rect x="12" y="16" width="40" height="32" rx="8" fill="#FF8FA3"/>
+  <rect x="20" y="12" width="24" height="10" rx="4" fill="#B9A7F5"/>
+  <text x="32" y="38" text-anchor="middle" font-size="12" font-family="Arial, sans-serif" fill="#40332F">zip</text>
+</svg>
